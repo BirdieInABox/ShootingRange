@@ -24,7 +24,7 @@ public class GameManager : MonoBehaviour, IEventListener
         //Reset ammonition count and UI
         ResetAmmo();
         //get old highscore
-        highscore = PlayerPrefs.GetInt("MasterVolume");
+        highscore = PlayerPrefs.GetInt("Highscore");
         //Update UI
         UpdateHighscore();
     }
