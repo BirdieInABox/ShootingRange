@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4f9ecad64e7c074388355cad9b08701, type: 3}
+  m_Name: Slow
+  m_EditorClassIdentifier: 
+  hitScan: 0
+  projectilePrefab: {fileID: 7294801713123810411, guid: b658ab24789291d448c36c5c6782f0f0, type: 3}
+  magazineSize: 5
+  currentMagazine: 3
+  reloadTime: 7
+  weaponSpeed: 3
+  damage: 7
+  onDelay: 0
+  reloading: 0
+  projectileSpeed: 200
+  projectileLifetime: 10
