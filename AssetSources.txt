@@ -1,0 +1,3 @@
+Guns: 	https://assetstore.unity.com/packages/2d/gui/icons/fps-icons-pack-45240
+SFX: 	https://assetstore.unity.com/packages/audio/sound-fx/universal-sound-fx-17256
+BGM: 	https://assetstore.unity.com/packages/audio/music/orchestral/ultimate-game-music-collection-37351
