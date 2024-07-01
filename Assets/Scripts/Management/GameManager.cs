@@ -41,6 +41,8 @@ public class GameManager : MonoBehaviour, IEventListener
         {
             //reset ammo amount
             weapon.currentMagazine = weapon.magazineSize;
+            weapon.onDelay = false;
+            weapon.reloading = false;
             //update UI at index of current weapon
             UpdateAmmo(i);
             i++;
